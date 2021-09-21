@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 NOe
+=======
+NOesaf
+>>>>>>> Stashed changes
